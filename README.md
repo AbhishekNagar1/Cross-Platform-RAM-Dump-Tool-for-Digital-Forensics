@@ -86,6 +86,7 @@ The tool generates a .raw file containing:
 1. Ensure the required permissions are granted before execution.
 2. The tool is optimized for `Windows` and `Linux (ParrotOS, Kali)` but can be extended for other platforms with minor modifications.
 3. For questions or issues, feel free to contact the project contributors.
+4. For running this tool through `USB Drive`. Firstly your USB Drive should be empty and have storgae more than your computers physical memory. Now add `RAM Dumper` folder to your USB drive along with `autorun.INF` and `StartApp.bat` files into your USB drive and then then click on `StartApp.bat` file to start `RAM Dump tool`. After clicking it will ask for `run as administrator` two times. So, you have to allow and wait for some minutes your RAM Dump will be completed and will stored in your USB Drive.
 
 ---
 
